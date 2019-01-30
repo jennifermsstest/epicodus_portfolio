@@ -1,7 +1,11 @@
+body {
+  font-family: 'PT Sans';font-size: 15px;
+}
+
 .container {
-  margin: 20px;
+  margin: 30px;
   border: 3px solid black;
-  padding: 10px;
+  padding: 30px;
 }
 
 .name {
@@ -14,17 +18,9 @@
   color: #297529;
 }
 
-body {
-  font-family: 'PT Sans';font-size: 15px;
-}
-
 h3 {
   font-family: 'Oswald';font-size: 30px;
   color: #9F9B74;
-}
-
-h4 {
-font-family: 'Oswald';font-size: 20px;
 }
 
 img {
@@ -34,6 +30,10 @@ img {
   height: 300px;
 }
 
+h4 {
+  font-family: 'Oswald';font-size: 20px;
+}
+
 .target {
-  color: gray;
+  color: #297529;
 }

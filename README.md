@@ -14,7 +14,7 @@ _This is a personal portfolio site created to highlight my knowledge with HMTL a
 * Use an index.html document to create the html
 * Add a CSS folder with styles.css and bootstrap.css files for styling
 
-Clone and enjoy! Link to project page: jennifermsstest.github.io/epicodus_portfolio
+Clone and enjoy! [Link to project page.](jennifermsstest.github.io/epicodus_portfolio)
 
 ## Known Bugs
 
